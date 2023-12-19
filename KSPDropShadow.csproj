@@ -45,12 +45,6 @@
     <Reference Include="UnityEngine">
       <HintPath>references\UnityEngine.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>references\UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UIModule">
-      <HintPath>references\UnityEngine.UIModule.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>references\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
@@ -59,9 +53,6 @@
     </Reference>
     <Reference Include="Assembly-CSharp">
       <HintPath>references\Assembly-CSharp.dll</HintPath>
-    </Reference>
-    <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>references\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
