@@ -18,6 +18,11 @@ It adds a simple, easy-to-render shadow directly underneath your craft:
 * Does not delete the shadow quad
 * Shadow goes underwater instead of on the surface of the water
 
+# Installation:
+* Go to the [releases tab](https://github.com/StrandedSoftwareDeveloper/KSPDropShadow/releases)
+* Under Assets, download `KSPDropShadow.zip`
+* Unzip it into your `GameData` folder
+
 # Building
 ## On Linux:
 ```
