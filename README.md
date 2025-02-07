@@ -9,6 +9,15 @@ It adds a simple, easy-to-render shadow directly underneath your craft:
 ![A craft on the ground with a crude shadow underneath](image1.png)
 ![A craft in the air with the same crude shadow underneath](image2.png)
 
+# Features:
+* Drop shadow under the craft
+* Tries to change the size of the shadow based on the size of your craft
+
+# Known issues:
+* Does not do a good job at matching the size of the shadow to the size of your craft
+* Does not delete the shadow quad
+* Shadow goes underwater instead of on the surface of the water
+
 # Building
 ## On Linux:
 ```
